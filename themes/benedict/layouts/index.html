@@ -1,0 +1,42 @@
+{{ partial "header.html" . }}
+
+<div id="small-brand">
+{{ with .Site.Params.name }}
+  <a class="small-brand" href="/">{{ . | safeHTML }}</a>
+{{ end }}
+</div>
+
+<div class="header">
+  {{ .Site.Params.description }}
+</div>
+
+<hr class ="section-horizontal-rule">
+<div class="section-summary">
+	<div class="section-title">Projects</div>
+	<div class="section-summary-content projects-content">
+	  {{ range (where .Data.Pages "Section" "project") }}
+	    {{ .Render "summary"}}
+	  {{ end }}
+	</div>
+</div>
+
+<hr class ="section-horizontal-rule">
+<div class="section-summary">
+	<div class="section-title">Posts</div>
+	<div class="section-summary-content">
+		
+	  {{ range (where .Data.Pages "Section" "post") }}
+	    {{ .Render "summary"}}
+	  {{ end }}
+	</div>
+</div>
+
+<hr class ="section-horizontal-rule">
+<div class="section-summary">
+	<div class="section-title">Contact</div>
+	<div class="section-summary-content contact">
+	  <a href="mailto:ivan.ferdelja@gmail.com">ivan.ferdelja@gmail.com</a>
+	</div>
+</div>
+
+{{ partial "footer.html" . }}

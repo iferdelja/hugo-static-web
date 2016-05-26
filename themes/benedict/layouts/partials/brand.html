@@ -1,0 +1,5 @@
+{{ with .Site.Params.name }}
+<div class="brand-container">
+  <a class="brand" href="/">{{ . | safeHTML }}</a>
+  </div>
+{{ end }}
