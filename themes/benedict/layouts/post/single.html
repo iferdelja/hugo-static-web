@@ -1,5 +1,12 @@
 {{ partial "header.html" . }}
 
+<div id="small-brand">
+{{ with .Site.Params.name }}
+  <a class="small-brand" href="/">{{ . | safeHTML }}</a>
+{{ end }}
+<hr class ="section-horizontal-rule">
+</div>
+
 <div class="post-header">
   <h1>{{ .Title }}</h1>
  <!--  <h2>{{ .Description }}</h2> -->
