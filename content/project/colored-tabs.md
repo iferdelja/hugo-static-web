@@ -2,6 +2,7 @@
 date        = "2016-03-04"
 title       = "Colored Tabs for Android"
 img 		= "colored-tabs.png"
+thumb		= "colored-tabs-thumb.png"
 +++
 
 # Colored Tabs for Android

@@ -7,7 +7,9 @@
 </div>
 
 <div class="header">
-  {{ .Site.Params.description }}
+  {{ with .Site.Params.description }}
+  	{{ . | safeHTML }}
+  {{ end }}
 </div>
 
 <hr class ="section-horizontal-rule">

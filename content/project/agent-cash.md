@@ -2,6 +2,7 @@
 date        = "2015-11-01"
 title       = "AgentCASH Smart POS for Android"
 img 		= "agentcash.png"
+thumb		= "agentcash-thumb.png"
 +++
 
 # AgentCASH Smart POS for Android
