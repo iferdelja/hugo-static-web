@@ -3,6 +3,7 @@ date        = "2016-03-04"
 title       = "Colored Tabs for Android"
 img 		= "colored-tabs.png"
 thumb		= "colored-tabs-thumb.png"
+weight		= 3
 +++
 
 Colored Tabs is a concept Android app to explore aspects of <a href="https://www.google.com/design/spec/material-design/introduction.html" target="_blank">Material design</a> such as immersion, cards etc.
