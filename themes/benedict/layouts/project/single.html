@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+
+<div id="small-brand">
+{{ with .Site.Params.name }}
+  <a class="small-brand" href="/">{{ . | safeHTML }}</a>
+{{ end }}
+
+</div>
+
+<div class="post-header">
+  <h1>{{ .Title }}</h1>
+ <!--  <h2>{{ .Description }}</h2> -->
+</div>
+<div class="post-content">
+
+ <!--  {{ partial "post_meta.html" . }} -->
+
+  {{ .Content }}
+
+  <hr class ="end-post-horizontal-rule">
+
+  {{ partial "prev_next_post.html" . }}
+
+  {{ partial "disqus.html" . }}
+
+</div>
+
+{{ partial "footer.html" . }}
