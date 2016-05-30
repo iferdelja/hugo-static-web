@@ -5,4 +5,3 @@ img 		= "patchup.png"
 thumb		= "patchup-thumb.png"
 +++
 
-# PatchUp for iOS

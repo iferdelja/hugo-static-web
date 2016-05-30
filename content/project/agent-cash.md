@@ -5,9 +5,6 @@ img 		= "agentcash.png"
 thumb		= "agentcash-thumb.png"
 +++
 
-# AgentCASH Smart POS for Android
-
-
 AgentCASH is a mobile payment system for Android that allows a business to accept card or cash payments any place, any time. 
 App offers a wide range of features, to fully support all requirements of a small or medium business.
 Some of the features:

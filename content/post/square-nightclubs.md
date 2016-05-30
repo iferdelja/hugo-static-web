@@ -1,6 +1,6 @@
 +++
 date        = "2016-01-05"
-title       = "Making Square REGISTER appealing to nightclubs"
+title       = "Making Square REGISTER appealing to nightclub segment"
 description = "How I imagined employee switching might work in Square Register app. Framer prototype included."
 tags        = [ "Framer, Square, POS"]
 categories	= [ "Framer, Square, POS"]
