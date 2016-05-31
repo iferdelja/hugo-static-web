@@ -13,7 +13,7 @@
 </div>
 
 <div class="section-summary">
-	<div class="section-title">Latest projects</div>
+	<div class="section-title">Recent apps</div>
 	<div class="section-summary-content projects-content">
 	  {{ range (where .Data.Pages "Section" "project") }}
 	    {{ .Render "summary"}}
@@ -22,7 +22,7 @@
 </div>
 
 <div class="section-summary">
-	<div class="section-title">Latest posts</div>
+	<div class="section-title">Recent writing</div>
 	<div class="section-summary-content">
 		
 	  {{ range (where .Data.Pages "Section" "post") }}
