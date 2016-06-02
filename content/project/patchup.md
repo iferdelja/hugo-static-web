@@ -6,7 +6,10 @@ thumb		= "patchup-thumb.png"
 weight		= 2
 +++
 
-PatchUp for iOS is a an app for micro-reporting in the cities.
+PatchUp for iOS is a an app for micro-reporting in the cities, targeting US region starting with Seattle.
+
+App is scheduled to launch at the <a target="_blank" href="http://nacto.org/conference/designing-cities-conference-seattle-2016/">Seattle Designing cities convention</a>
+
 
 <a target="_blank" href="https://patchup.city/">PatchUp platform</a>
 
