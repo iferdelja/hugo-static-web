@@ -14,7 +14,7 @@ Back then I was part of a team building an entirely new POS app. The reason we c
 
 Coming from the mobile app industry the vision in our minds was always one of an interface that is simple and functional yet visually appealing. Our all time role model was therefore Square Register, one of the best apps ever built. Square's app was literally our holy grail.
 
-{{< figure src="/img/club-bar.png" class="post-image">}}
+{{< figure src="/img/club-bar.jpg" class="post-image">}}
 
 However, looking at the waiters below, I reluctantly had to admit that these guys would probably hate Square. Reason for that is that, unlike the software they were using, Square was not tailor made for an Adriatic nightclub and they would have a hard time using it. 
 

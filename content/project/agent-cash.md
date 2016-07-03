@@ -1,8 +1,8 @@
 +++
 date        = "2015-11-01"
 title       = "AgentCASH Smart POS for Android"
-img 		= "agentcash.png"
-thumb		= "agentcash-thumb.png"
+img 		= "agentcash.jpg"
+thumb		= "agentcash-thumb.jpg"
 weight		= 1
 +++
 
@@ -20,4 +20,5 @@ Some of the features:
 
 <a class="playstore-link" target="_blank" href='https://play.google.com/store/apps/details?id=com.agentcash.register&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
-<a target="_blank" href='https://play.google.com/store/apps/details?id=com.agentcash.register&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>{{< figure src="/img/agentcash.png" class="post-image">}}</a>
+<a target="_blank" href='https://play.google.com/store/apps/details?id=com.agentcash.register&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>{{< figure src="/img/agentcash.jpg" class="post-image">}}</a>
+

@@ -1,8 +1,8 @@
 +++
 date        = "2016-03-04"
 title       = "Colored Tabs for Android"
-img 		= "colored-tabs.png"
-thumb		= "colored-tabs-thumb.png"
+img 		= "colored-tabs.jpg"
+thumb		= "colored-tabs-thumb.jpg"
 weight		= 3
 +++
 
@@ -17,5 +17,5 @@ Tech note: Story feed video content is displayed on a TextureView instead of Sur
 
 <a class="playstore-link" target="_blank" href='https://play.google.com/store/apps/details?id=com.ivanferdelja.coloredtabs&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
-<a target="_blank" href='https://play.google.com/store/apps/details?id=com.ivanferdelja.coloredtabs&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>{{< figure src="/img/colored-tabs.png" class="post-image">}}</a>
+<a target="_blank" href='https://play.google.com/store/apps/details?id=com.ivanferdelja.coloredtabs&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>{{< figure src="/img/colored-tabs.jpg" class="post-image">}}</a>
 

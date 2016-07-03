@@ -15,7 +15,7 @@ Konzum (largest supermarket chain in Croatia) and IKEA Zagreb both use the same 
 
 Unlike Konzum, IKEA decided to buy the optional shield.
 
-{{< figure src="/img/pos-terminal.png" class="post-image">}}
+{{< figure src="/img/pos-terminal.jpg" class="post-image">}}
 
 
 This might not seem like a big deal, but card frauds don't just happen to people you read about, they are real. Retailers have the job to ensure customers feel safe when reaching for their wallet.  Each time I enter my PIN at the Konzum supermarket I'm amazed at the utter lack of desire to help me keep my PIN safe. Which translates into a lack of desire to provide a pleasant store experience.

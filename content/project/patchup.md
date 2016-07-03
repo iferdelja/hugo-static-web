@@ -1,8 +1,8 @@
 +++
 date        = "2016-03-04"
 title       = "PatchUp for iOS"
-img 		= "patchup.png"
-thumb		= "patchup-thumb.png"
+img 		= "patchup.jpg"
+thumb		= "patchup-thumb.jpg"
 weight		= 2
 +++
 
@@ -13,4 +13,4 @@ App is scheduled to launch at the <a target="_blank" href="http://nacto.org/conf
 
 <a target="_blank" href="https://patchup.city/">PatchUp platform</a>
 
-{{< figure src="/img/patchup.png" class="post-image">}}
+{{< figure src="/img/patchup.jpg" class="post-image">}}

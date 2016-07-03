@@ -19,7 +19,7 @@ Three things excite me about Uber:
 
 * And the thing I like most, no more damn cash. Hallelujah.
 
-{{< figure src="/img/uber.png" class="post-image">}}
+{{< figure src="/img/uber.jpg" class="post-image">}}
 
 I use Uber most often on one specific 3.5 mile route. On my latest trip via that route, the driver decided to take a couple of unnecessary turns. This added an extra mile and an extra one euro to my invoice. I rated the guy 4/5 and attached a short comment on how they should really try to take the shortest route. No hard feelings, just trying to be a good customer.
 
