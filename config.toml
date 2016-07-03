@@ -3,6 +3,7 @@ baseurl = "http://www.ivanferdelja.com/"
 languageCode = "en-us"
 title = "IvanF."
 theme = "benedict"
+buildFuture = false
 
 [params]
 

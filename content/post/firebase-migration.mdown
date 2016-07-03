@@ -1,9 +1,10 @@
 +++
-date        = "2015-15-05"
+date        = "2120-05-05"
 title       = "Goodbye Parse. Hello Firebase. A migration story."
 description = "Migrating a typical app to Firebase."
 tags        = [ "Parse, Firebase"]
 categories	= [ "Parse, Firebase"]
+publishdate        = "2120-05-05"
 +++
 
 
