@@ -6,7 +6,7 @@ thumb		= "agentcash-thumb.png"
 weight		= 1
 +++
 
-AgentCASH is a mobile payment system for Android that allows businesses to accept card or cash payments any place, any time. 
+<a href ="http://www.agentcash.com" target="_blank">AgentCASH </a> is a mobile payment system for Android that allows businesses to accept card or cash payments any place, any time.
 
 App fully supports all requirements of a small or medium business.
 
