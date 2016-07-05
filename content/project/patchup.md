@@ -13,4 +13,7 @@ App is scheduled to launch at the <a target="_blank" href="http://nacto.org/conf
 
 <a target="_blank" href="https://patchup.city/">PatchUp platform</a>
 
+<a target="_blank" href="https://geo.itunes.apple.com/hr/app/patchup-mend-your-city!/id1114321245?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+
 {{< figure src="/img/patchup.jpg" class="post-image">}}
+
