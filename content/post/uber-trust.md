@@ -1,9 +1,10 @@
 +++
 date        = "2016-01-27"
-title       = "What I learned from Uber about trust"
+title       = "Uber's lesson to Croatian economy"
 description = "Ever since Uber arrived in Zagreb few months ago, I have been using it on a regular basis. One of the trips turned out to be special."
 tags        = [ "Customer support"]
 categories	= [ "Customer support"]
+thumb		= "uber_post_thumb.jpg"
 +++
 
 

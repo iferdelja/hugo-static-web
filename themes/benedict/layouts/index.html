@@ -1,19 +1,27 @@
 {{ partial "header.html" . }}
 
-<div id="small-brand">
-{{ with .Site.Params.name }}
-  <a class="small-brand" href="/">{{ . | safeHTML }}</a>
-{{ end }}
-</div>
-
 <div class="header">
   {{ with .Site.Params.description }}
   	{{ . | safeHTML }}
   {{ end }}
 </div>
 
+<div class="subheader">
+  {{ with .Site.Params.description2 }}
+  	{{ . | safeHTML }}
+  {{ end }}
+</div>
+
+<!--
+<div class="subheader2">
+  {{ with .Site.Params.description3 }}
+  	{{ . | safeHTML }}
+  {{ end }}
+</div>
+-->
+
 <div class="section-summary">
-	<div class="section-title">Recent apps</div>
+	
 	<div class="section-summary-content projects-content">
 	  {{ range (where .Data.Pages "Section" "project") }}
 	    {{ .Render "summary"}}
@@ -22,7 +30,7 @@
 </div>
 
 <div class="section-summary">
-	<div class="section-title">Recent writing</div>
+	
 	<div class="section-summary-content">
 		
 	  {{ range (where .Data.Pages "Section" "post") }}
@@ -33,13 +41,16 @@
 
 
 <div class="section-summary">
-	<div class="section-title">Get in touch</div>
 	<div class="section-summary-content contact">
 	  <a href="mailto:ivan.ferdelja@gmail.com">ivan.ferdelja@gmail.com</a>
 
 	  	<div>
 	<a target="_blank" class="social-link" href="https://www.linkedin.com/in/ivanferdelja?trk=hp-identity-name"><img src="img/linkedin.png"></a>
+	
+	<a target="_blank" class="social-link" href="https://github.com/iferdelja?tab=repositories"><img src="img/github.png"></a>
+	
 	</div>
+
 
 	</div>
 

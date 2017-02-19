@@ -7,10 +7,18 @@ categories	= [ "Parse, Firebase"]
 publishdate        = "2120-05-05"
 +++
 
+When Parse announced it is closing down (or "open-sourcing" as they cleverly decided to put it) we had a discussion in our team
+of what the next step should be. We were using Parse to back an iOS app with a growing user base.
+
+After looking into our options we settled on Firebase as our platform of choice. Migration from Parse was fairly straightforward so lets get specific.
+
+* Adapting the data model
+
+
 
 Security rules
 
-Adapting the data model
+
 -Parse scheme example
 -Firebase scheme example
 

@@ -13,7 +13,9 @@ buildFuture = false
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Ivan<br>Ferdelja"
-	description = "Hi! I'm a software engineer living in Zagreb. I like to build human-friendly mobile apps."
+	description = "Ivan Ferdelja is a software engineer<br>in Zagreb, Croatia"
+	description2 = "User must never be confused or dissatisfied.<br>All pixels must be in their correct place.<br>Never repeat yourself when coding."
+	description3 = "Getting all of the above just right is hard work but its well worth it."
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual

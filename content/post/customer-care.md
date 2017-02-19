@@ -1,9 +1,10 @@
 +++
 date        = "2015-04-17"
-title       = "Why you need to care when customers call you"
+title       = "Take your customer phone calls seriously"
 description = "Regardless of the product or a service being delivered, there is always a choice to care or not to care about the people using it"
 tags        = [ "Customer support"]
 categories	= [ "Customer support"]
+thumb		= "phone_thumb.jpg"
 +++
 
 At quarter past eleven on a Wednesday night we learned that one of our customers had run into a problem. We decided not to wait solving it. Few minutes later, as I was leaving my apartment, I decided to use a popular app to get myself a taxi. As I walked down the staircase from the top floor of my building I got the notification - a car was on its way. The street outside was already quiet of the traffic. I stood at the corner and waited for the car.

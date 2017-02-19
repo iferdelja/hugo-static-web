@@ -1,8 +1,9 @@
 +++
 date        = "2015-11-01"
-title       = "AgentCASH Smart POS for Android"
+title       = "AgentCASH Smart POS"
 img 		= "agentcash.jpg"
 thumb		= "agentcash-thumb.jpg"
+gif			= "agentcash.gif"
 weight		= 1
 +++
 

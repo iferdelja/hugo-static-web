@@ -1,8 +1,9 @@
 +++
 date        = "2016-03-04"
-title       = "Colored Tabs for Android"
+title       = "Color tab concept"
 img 		= "colored-tabs.jpg"
 thumb		= "colored-tabs-thumb.jpg"
+gif 		= "colored.gif"
 weight		= 3
 +++
 

@@ -1,8 +1,9 @@
 +++
 date        = "2016-03-04"
-title       = "PatchUp for iOS"
+title       = "PatchUp"
 img 		= "patchup.jpg"
-thumb		= "patchup-thumb.jpg"
+thumb		= "patchup-thumb2.jpg"
+gif 		= "patchup.gif"
 weight		= 2
 +++
 

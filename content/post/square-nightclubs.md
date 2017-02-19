@@ -1,9 +1,10 @@
 +++
 date        = "2016-01-05"
-title       = "Making Square REGISTER appealing to nightclub segment"
+title       = "Why Square Register wont work for clubs"
 description = "How I imagined employee switching might work in Square Register app. Framer prototype included."
 tags        = [ "Framer, Square, POS"]
 categories	= [ "Framer, Square, POS"]
+thumb		= "square_thumb.jpg"
 +++
 
 At 2AM on a cold Saturday night I was standing on the upper level of a nightclub, observing the party below. The dance floor has gone wild and the bar is crowded. Behind the bar, couple of waiters were running wild trying to keep up with the orders. And they were doing a damn good job. I wondered how long it would take for me to get this good. The POS software they used was the most popular POS in Adriatic nightclubs and restaurants. Its damn ugly but Its doing an incredible job, spitting out receipts at lightning speed. 

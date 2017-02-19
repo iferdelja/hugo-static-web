@@ -1,9 +1,10 @@
 +++
 date        = "2015-11-28"
-title       = "Pieces of plastic have a story to tell"
+title       = "Build trust by fixing the small details"
 description = "Sometimes even a POS terminal can tell a lot about the retailer"
 tags        = [ "Customer care, POS"]
 categories	= [ "Customer care, POS"]
+thumb		= "trust_pin_thumb.jpg"
 +++
 
 
